@@ -6,10 +6,10 @@
 
 ### 🎓 Formação Acadêmica
 **Tecnologia em Banco de Dados** | Faculdade Impacta
-*Status: Matriculada (Início das aulas: Fevereiro/2026)*
+*Status: Em Andamento*
 
 **Ensino Médio Integrado ao Técnico em IoT** | Senac Nações Unidas
-*Status: Em andamento (12/2025)*
+*Status: Finalizado (12/2025)*
 
 ---
 
